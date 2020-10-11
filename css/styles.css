@@ -1,0 +1,332 @@
+@import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
+html {
+    scroll-behavior: smooth;
+}
+body{
+    margin-right: 0px;
+    margin-left: 0px;
+
+}
+.abu {
+    text-align: center;
+    background-image: url("../img/cop.jpg ");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 16%;
+    font-family: 'Gabriela', serif;
+}
+
+.abu p {
+    padding-bottom: 10%;
+    color: whitesmoke;
+}
+
+#hee {
+    animation: bounce 5s infinite;
+}
+
+#hee {
+    cursor: pointer;
+    color: #0088cc;
+}
+
+#hee :hover {
+    text-decoration: underline;
+}
+
+#logo {
+    margin-top: 12px;
+    margin-bottom: 14px;
+    width: 1110px;
+    height: 300px;
+    text-align: center;
+    padding-left: 5%;
+    padding-left: 65%;
+}
+
+#ma {
+    margin-left: 50%;
+}
+
+.abuu {
+    text-align: center;
+    font-family: 'Grandstander', cursive;
+}
+
+.example {
+    background-image: url("../img/bac.jpg ");
+    text-align: center;
+    padding-top: 10%;
+}
+
+.example h6 {
+    padding-bottom: 10%;
+    color: whitesmoke;
+}
+
+.example h2 {
+    color: whitesmoke;
+}
+
+h3 {
+    text-align: center;
+}
+
+.row {
+    text-align: center;
+}
+
+.wilder {
+    display: none;
+}
+
+.aguero {
+    display: none;
+}
+
+.pot {
+    text-align: center;
+}
+
+.bayan {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#work1-overlay {
+    display: none;
+    color: black;
+    width: 95%;
+    height: 95%;
+    background-color: rgba(255, 255, 255, 0.456);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 30%;
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+#work2-overlay {
+    display: none;
+    color: black;
+    width: 95%;
+    height: 95%;
+    background-color: rgba(255, 255, 255, 0.456);
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30%;
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+#work3-overlay {
+    display: none;
+    color: black;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.456);
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30%;
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+#work4-overlay {
+    display: none;
+    color: black;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.456);
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30%;
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+#work5-overlay {
+    display: none;
+    color: black;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.456);
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30%;
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+#work6-overlay {
+    display: none;
+    color: black;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.456);
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30%;
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+#work7-overlay {
+    display: none;
+    color: black;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.456);
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30%;
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+#work8-overlay {
+    display: none;
+    color: black;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.456);
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30%;
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+.ate {
+    background-image: url("../img/pic.jpg");
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+#us {
+    text-align: center;
+}
+
+#mes {
+    width: 100%;
+    height: 100%;
+}
+
+#basha {
+    opacity: 0.3;
+}
+
+.contact {
+    margin-left: 15%;
+    margin-right: 17%;
+}
+
+footer {
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+footer p {
+    margin-top: 10px;
+}
+
+.silva {
+    display: none;
+}
+
+#comment {
+    margin-bottom: 5%;
+    margin-top: 1%;
+    margin-left: 4%;
+}
+
+@media only screen and (max-width: 425px) {
+    #work1-overlay,
+    #work2-overlay,
+    #work3-overlay,
+    #work4-overlay,
+    #work5-overlay,
+    #work6-overlay,
+    #work7-overlay,
+    #work8-overlay {
+        width: 100%;
+        height: 100%;
+        top: 1px;
+        left: 1px;
+        padding-top: 20%;
+        font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 825px) {
+    #work1-overlay,
+    #work2-overlay,
+    #work3-overlay,
+    #work4-overlay,
+    #work5-overlay,
+    #work6-overlay,
+    #work7-overlay,
+    #work8-overlay {
+        width: 100%;
+        height: 100%;
+        top: 1px;
+        left: 1px;
+        padding-top: 30%;
+    }
+}
+
+@media only screen and (min-width: 625px) {
+    #work1-overlay,
+    #work2-overlay,
+    #work3-overlay,
+    #work4-overlay,
+    #work5-overlay,
+    #work6-overlay,
+    #work7-overlay,
+    #work8-overlay {
+        width: 100%;
+        height: 100%;
+        top: 1px;
+        left: 1px;
+        padding-top: 20%;
+        font-size: 26px;
+    }
+}
+
+#MERGE1 {
+    width: 100%;
+    margin-right: 5%;
+}
+
+#MERGE0 {
+    width: 100%;
+    margin-left: 8%;
+}
