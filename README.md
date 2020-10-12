@@ -37,7 +37,7 @@ This project is a web application for Delani studio that shows details about the
 |  Enter your name  |   Abuu Dee |     |
 | Enter your Email Address  | eidabdullahi@gmail.com |   |
 | Enter your message or comment   |  I would love to work with you     |     |
-| Press Submit|     |Pop up "Abuu dee , we have received your message. Thank you for reaching out to us.|
+| Press Submit|     |Pop up "eid , we have received your message. Thank you for reaching out to us.|
 
 ## Known Bugs
 * The site is not responsive enough for some devices. 
