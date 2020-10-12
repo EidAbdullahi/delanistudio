@@ -5,11 +5,12 @@ html {
 body{
     margin-right: 0px;
     margin-left: 0px;
+    width: 100%;
+    margin: 0px;
 
 }
 .abu {
-    text-align: center;
-    background-image: url("../img/cop.jpg ");
+    background-image: url("../img/cop.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -17,6 +18,7 @@ body{
     text-align: center;
     padding-top: 16%;
     font-family: 'Gabriela', serif;
+    width: 100%;
 }
 
 .abu p {
@@ -246,6 +248,7 @@ h3 {
 .contact {
     margin-left: 15%;
     margin-right: 17%;
+    color: white;
 }
 
 footer {
@@ -324,6 +327,7 @@ footer p {
 #MERGE1 {
     width: 100%;
     margin-right: 5%;
+
 }
 
 #MERGE0 {
