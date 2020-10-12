@@ -34,7 +34,7 @@ This project is a web application for Delani studio that shows details about the
 ## BDD
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
-|  Enter your name  |   Abuu Dee |     |
+|  Enter your name  |   eidii |     |
 | Enter your Email Address  | eidabdullahi@gmail.com |   |
 | Enter your message or comment   |  I would love to work with you     |     |
 | Press Submit|     |Pop up "eid , we have received your message. Thank you for reaching out to us.|
