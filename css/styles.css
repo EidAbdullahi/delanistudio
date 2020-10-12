@@ -73,6 +73,9 @@ body{
 .example h2 {
     color: whitesmoke;
 }
+#mxmd{
+    text-align: center;
+}
 
 h3 {
     text-align: center;
