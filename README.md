@@ -12,6 +12,7 @@ This project is a web application for Delani studio that shows details about the
 <img src="https://raw.githubusercontent.com/Owiti-Charles/Delani-Studio/master/images/delanihome.png" width="900px" height="440px">
 
 ## Live Page 
+https://eidabdullahi.github.io/delanistudio/
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
