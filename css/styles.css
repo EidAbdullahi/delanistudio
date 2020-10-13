@@ -10,7 +10,7 @@ body{
 
 }
 .eid {
-    background-image: url("../img/cop.jpg");
+    background-image: url("../assets/backgrounds/h_img.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -59,7 +59,7 @@ body{
 }
 
 .example {
-    background-image: url("../img/bac.jpg ");
+    background-image: url("../assets/backgrounds/s_image.jpg");
     text-align: center;
     padding-top: 10%;
     font-size: 25px;
@@ -231,7 +231,7 @@ h3 {
 }
 
 .ate {
-    background-image: url("../img/pic.jpg");
+    background-image: url("../assets/backgrounds/c_image.jpg");
     margin-left: 6%;
     margin-right: 6%;
 }
